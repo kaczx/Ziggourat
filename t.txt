@@ -1,0 +1,360 @@
+FILE : 
+/home/Ziggourat/wallet/.git/COMMIT_EDITMSG
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/config
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/description
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/HEAD
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/hooks
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/applypatch-msg.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/commit-msg.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/post-commit.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/post-receive.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/post-update.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/pre-applypatch.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/pre-commit.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/pre-rebase.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/prepare-commit-msg.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/hooks/update.sample
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/index
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/info
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/info/exclude
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/logs
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/logs/HEAD
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/logs/refs
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/logs/refs/heads
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/logs/refs/heads/master
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/logs/refs/remotes
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/logs/refs/remotes/origin
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/logs/refs/remotes/origin/master
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/02
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/02/ba92fbe129369946228cae65483583b32fb5c0
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/13
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/13/21ef9fdc0b6a45f11c06584621af0db533b639
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/13/369252e2e73a3402c88c4855fdeceef9bec578
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/18
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/18/6f970bddb7d4bce4a6e9707e217c366be5b001
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/1a
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/1a/cc3431feeb96cedc8fac6f641a5bb66e70ef78
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/2d
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/2d/74070719a3da146c4af925485519390ea1d7dd
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/51
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/51/9a2cf8fc0f15ef88cbf649ed495ffac4361d95
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/51/a6c4e7c52c0887a4c74846b438e7fe7a97db09
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/54
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/54/6c816927f2816f5a1c7cd9ffe5ef40c846a443
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/56
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/56/59f97b2d66ce2512c230ee0a26359f8efccf2b
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/60
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/60/804396e09fdca376329ae0e95f191f5443c169
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/6c
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/6c/18099936726367e718ee6fe635fd35835e333d
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/71
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/71/dd5b0c56d31e40de9d937018ae56bed6b18b68
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/75
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/75/a3640a48a023cf80c92e6d571e71698ab8d5f5
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/84
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/84/6d4c508c7957d71b5d779ca972b8cac109deb8
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/85
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/85/11c14970e85cc6e4faaa6cf12ce5a9abc9d253
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/8b
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/8b/29779e55daf2e02305796a69d690cb904622e7
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/92
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/92/adb9338b531e6515c430481aebc06b5cc3ffe5
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/9f
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/9f/50fda79ebbe657a3bdd2781847171bf5e4402d
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/a5
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/a5/d737064c5bbd593cb8a22decc59e1ca193d3f6
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/a7
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/a7/30e529c5021684057bcb0844d4ec3ed6533f02
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/af
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/af/314ae163d27baeeba802a5f5aead82de5eea35
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/b8
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/b8/eb069dce49ec7b55db66d7b506fbe97bba27ed
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/b9
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/b9/bb6dae5699400bdd72ffede945dbc7e0016461
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/ba
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/ba/95ca00c8880cc2799ce1b49a2a94454c5ff766
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/ca
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/ca/0d40691b93bcae08590200253b6c5b49ff568a
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/cf
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/cf/d0c89589e2a3c0f5524081a437db493e65bec8
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/da
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/objects/da/f47ca726e94420f7baea68ee287eca1ce038c2
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/info
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/objects/pack
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/refs
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/refs/heads
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/refs/heads/master
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/refs/remotes
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/refs/remotes/origin
+-> READABLE
+-> WRITABLE
+FILE : 
+/home/Ziggourat/wallet/.git/refs/remotes/origin/master
+-> READABLE
+-> WRITABLE
+DIR : 
+/home/Ziggourat/wallet/.git/refs/tags
+-> READABLE
+-> WRITABLE

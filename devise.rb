@@ -1,8 +1,7 @@
+require 'value.rb'
+
 class Devise
-	
 	attr_accessor :name, :exchange_rate
+	include Value
 	
-	def to_usd
-		@exchange_rate
-	end	
 end

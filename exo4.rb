@@ -13,10 +13,21 @@ eur.name= 'Euros'
 eur.exchange_rate= 1.3471
 
 
-devises = {
+devise = {
 	:livre => gbp,
 	:yen => yen,
 	:eur =>  eur
 }
 
-puts devises
+#devises.delete_if{|key, value| key == :yen }
+array = devise.values
+array.sort_by {|devise| devise.exchange_rate}
+
+@avg= 0
+array.each {|devise|
+  @avg+= devise.exchange_rate
+}
+
+puts @avg/array.length
+
+puts array
